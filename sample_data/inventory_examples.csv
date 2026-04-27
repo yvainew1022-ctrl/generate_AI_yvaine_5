@@ -1,0 +1,4 @@
+flower_variety,inventory_quantity,intake_date,current_date,shelf_life_days,avg_daily_demand
+Roses,50,2026-04-25,2026-04-27,3,20
+Tulips,30,2026-04-24,2026-04-27,3,5
+Lilies,20,2026-04-26,2026-04-27,3,8
