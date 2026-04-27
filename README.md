@@ -42,4 +42,4 @@ A brief, actionable recommendation
 This skill is intended for decision support only. It does not issue final Buy / Do Not Buy decisions and should always be used in combination with human judgment and business context.
 
 ## Video link
-(Add your video link here)
+https://youtu.be/pWlWC1Ge1uo
